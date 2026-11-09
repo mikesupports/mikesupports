@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Michael
+DevOps trainee at TS Academy (Aurora cohort).
+Learning in public through the 30 Days of Tech challenge.
+Notes and projects: see my repos below.
 
 <!--
 **mikesupports/mikesupports** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
